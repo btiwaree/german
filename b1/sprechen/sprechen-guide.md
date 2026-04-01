@@ -9,7 +9,7 @@
   - Teil 3: Diskussion — 16 Punkte
   - Aussprache (pronunciation, assessed across all parts) — 16 Punkte
 - Done in pairs (you + another candidate)
-- You get preparation sheets 15 min before -- you can make notes but must speak freely
+- You get preparation materials (on screen or paper) 15 min before -- you can make notes but must speak freely
 - **60% needed to pass (60 out of 100)**
 
 ## Scoring Criteria
@@ -28,7 +28,7 @@
 
 ### The Pattern
 
-You and your partner must plan something together (a party, a trip, a gift, an event). You get a task sheet with 5 W-questions to discuss:
+You and your partner must plan something together (a party, a trip, a gift, an event). You get a task card (shown on screen or paper) with 5 W-questions to discuss:
 
 - **Was?** (What?)
 - **Wann?** (When?)
@@ -98,7 +98,7 @@ You and your partner must plan something together (a party, a trip, a gift, an e
 
 ### SAMPLE DIALOGUE 1: Abschiedsfeier fuer einen Kollegen (Farewell party for a colleague)
 
-**Task sheet says:** Your colleague Thomas is leaving the company. Plan a farewell party together.
+**Task card (shown on screen or paper) says:** Your colleague Thomas is leaving the company. Plan a farewell party together.
 
 > **A:** Also, unser Kollege Thomas verlaesst die Firma und wir sollen eine Abschiedsfeier fuer ihn planen. Hast du schon eine Idee, was wir machen koennten?
 >
@@ -132,7 +132,7 @@ You and your partner must plan something together (a party, a trip, a gift, an e
 
 ### SAMPLE DIALOGUE 2: Wochenendausflug planen (Plan a weekend trip)
 
-**Task sheet says:** You and your partner want to go on a weekend trip together. Plan the trip.
+**Task card (shown on screen or paper) says:** You and your partner want to go on a weekend trip together. Plan the trip.
 
 > **A:** Wir wollten ja zusammen einen Wochenendausflug machen. Ich freue mich schon! Sollen wir mal planen, was wir machen wollen?
 >
@@ -170,7 +170,7 @@ You and your partner must plan something together (a party, a trip, a gift, an e
 
 ### SAMPLE DIALOGUE 3: Geburtstagsueberraschung fuer eine Freundin (Birthday surprise for a friend)
 
-**Task sheet says:** Your friend Maria has her birthday next week. Plan a surprise together.
+**Task card (shown on screen or paper) says:** Your friend Maria has her birthday next week. Plan a surprise together.
 
 > **A:** Maria hat naechste Woche Geburtstag. Ich finde, wir sollten eine Ueberraschung fuer sie planen. Was meinst du?
 >
@@ -210,7 +210,7 @@ You and your partner must plan something together (a party, a trip, a gift, an e
 
 ### The Pattern
 
-You choose 1 of 2 topics and give a short presentation. The task sheet ALWAYS requires these 5 points:
+You choose 1 of 2 topics and give a short presentation. The task card (shown on screen or paper) ALWAYS requires these 5 points:
 
 1. **Beschreiben Sie die Situation in Ihrem Heimatland** (Describe the situation in your home country)
 2. **Berichten Sie von Ihren persoenlichen Erfahrungen** (Report on your personal experience)

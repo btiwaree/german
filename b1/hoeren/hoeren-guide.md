@@ -10,7 +10,7 @@
 | Parts | 4 |
 | Total items | 30 |
 | Scoring | Points scaled to 100, need 60% to pass |
-| Format | You hear recordings and mark answers on an answer sheet |
+| Format | You hear recordings and click answers on screen |
 
 **Critical:** Some parts are heard TWICE (Teil 1 and Teil 4), some ONCE (Teil 2 and Teil 3). Adjust your strategy accordingly.
 
@@ -24,8 +24,8 @@
 - Total: 10 items
 
 ### Strategy
-1. **Before listening:** Read ALL questions for the current dialogue. Underline keywords.
-2. **First listen:** Get general understanding, mark tentative answers in pencil.
+1. **Before listening:** Read ALL questions for the current dialogue. Note the keywords.
+2. **First listen:** Get general understanding, click your tentative answers (you can change them later).
 3. **Second listen:** Confirm and correct your answers.
 4. Questions follow the chronological order of the dialogue -- use this to track where you are.
 
@@ -132,7 +132,7 @@ Shopping, making appointments, travel plans, phone calls, conversations with nei
 - 5 multiple choice questions (a/b/c)
 
 ### Strategy
-1. **Before listening:** Read all 5 questions and underline keywords. You only hear this ONCE.
+1. **Before listening:** Read all 5 questions and note the keywords. You only hear this ONCE.
 2. **While listening:** Answer immediately as you hear the information. Do not wait until the end.
 3. **If you miss one:** Move on. Do not dwell on a missed question -- you will lose the next answer too.
 4. Questions follow the order of the monologue.

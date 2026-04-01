@@ -17,7 +17,7 @@ You receive a personal text of about 250 words -- a blog post, email, or online 
 ### Strategy
 
 1. **Read the 6 statements FIRST** before reading the text
-2. Underline the key information in each statement (names, numbers, time words, actions)
+2. Note the key information in each statement (names, numbers, time words, actions)
 3. Read the text and mark relevant passages as you find them
 4. Statements follow the order of the text -- statement 1 relates to the beginning, statement 6 to the end
 5. After matching, re-read both the statement and the relevant passage carefully before deciding
@@ -72,7 +72,7 @@ Two short articles from newspapers or magazines. Topics are general interest: he
 ### Strategy
 
 1. **Read the 3 questions for the first article** before reading the article
-2. Underline keywords in each question and in the answer options
+2. Mentally note keywords in each question and in the answer options
 3. Read the article, marking passages that relate to each question
 4. Answer in order -- the answers follow the sequence of the text
 5. Repeat for the second article
@@ -131,7 +131,7 @@ On the left: 7 short descriptions of people and what they are looking for (a cou
 ### Strategy
 
 1. Read the first person description carefully
-2. **Underline 2-3 key requirements** (e.g., "am Wochenende", "fur Kinder", "kostenlos", "in der Nahe von ...")
+2. **Note 2-3 key requirements** (e.g., "am Wochenende", "fur Kinder", "kostenlos", "in der Nahe von ...")
 3. Scan ALL 10 ads for a match -- check that ALL requirements are met, not just one
 4. If an ad matches on most points but fails on one key detail, it is NOT a match
 5. Work through all 7 people systematically
@@ -415,13 +415,13 @@ Important for Teil 1, Teil 2, and Teil 5 (understanding when things happen).
 | 3 | Matching | 7 | 15 min | High (most points, most time) |
 | 4 | Pro/Contra | 7 | 12 min | High (most points, trainable) |
 | 5 | Rules/MC | 4 | 8 min | Low (fewest points) |
-| - | Transfer + Check | - | 8 min | Do not skip |
+| - | Review + Check | - | 8 min | Do not skip |
 | **Total** | | **30** | **65 min** | |
 
 **Golden rules:**
 - Never leave a question blank -- there is no penalty for guessing
 - If stuck for more than 2 minutes on one question, mark your best guess and move on
-- Transfer answers to the answer sheet carefully -- a misaligned answer sheet ruins everything
+- Review your selected answers on screen before submitting -- you can go back and change answers
 - In Teil 3, cross off ads as you match them so you narrow your options
 - In Teil 4, trust the signal words -- do not overthink nuanced comments
 

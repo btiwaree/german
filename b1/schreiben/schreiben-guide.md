@@ -12,7 +12,14 @@
 
 - **Duration:** 60 minutes total for all three tasks
 - **Total:** 100 points, you need **60 points (60%)** to pass
-- **Golden rule:** You may use scratch paper but NO dictionaries or electronic devices
+- **Golden rule:** You type on a computer -- use the built-in word count but NO dictionaries, spell-check, or external tools are allowed
+
+### Computer-Based Writing Tips
+- **German keyboard layout:** Learn where ä (quote key), ö, ü, and ß (next to zero) are located. Practice typing with German layout before exam day!
+- **Word count:** The computer usually shows a word counter -- use it to stay near the target (80 words for Aufgabe 1 & 2, 40 words for Aufgabe 3)
+- **Easy editing:** Unlike paper, you can freely delete, rearrange, and rewrite. Take advantage of this!
+- **Copy/paste:** You may be able to copy/paste within your answer -- useful for fixing sentence order
+- **Spell-check is OFF:** Don't rely on red squiggly lines. Proofread carefully yourself.
 
 ---
 
@@ -689,7 +696,7 @@ Maria Weber
 ### 2. Mixing du and Sie (informal and formal register)
 - **Problem:** Using "Sie" in Aufgabe 1 or "du" in Aufgabe 3
 - **Cost:** Heavy penalty on Wortschatz and Strukturen
-- **Fix:** Circle the task type before starting. Aufgabe 1 = du, Aufgabe 3 = Sie.
+- **Fix:** Mentally note the task type before starting. Aufgabe 1 = du, Aufgabe 3 = Sie.
 
 ### 3. Forgetting greeting or closing
 - **Problem:** No "Liebe/r [Name]" or no "Liebe Gruesse" in Aufgabe 1
@@ -874,10 +881,10 @@ Before you start each Aufgabe, check:
 # Final Tips for Exam Day
 
 1. **Read all three tasks first** before writing anything. This lets your brain start processing.
-2. **Underline or number the bullet points** in each task. This is your scoring checklist.
+2. **Mentally note or number the bullet points** in each task. This is your scoring checklist.
 3. **Write the greeting and closing first** for Aufgabe 1 and 3. This saves you from forgetting them.
-4. **Do not erase and rewrite** -- cross out neatly with a single line and continue. Examiners accept this.
-5. **Write clearly and legibly.** If examiners cannot read it, they cannot give you points.
+4. **Use the backspace/delete key freely** -- one advantage of computer-based testing is easy editing. Clean up your text before submitting.
+5. **Proofread on screen.** Read through your entire text before submitting -- fix typos and missing umlauts.
 6. **If you do not know a word**, use a simpler word or describe the concept. Do not leave a blank.
 7. **Count your words** after each task. A quick count avoids over/under writing.
 8. **Use the templates.** They exist so you do not have to think about structure under pressure. Focus your energy on content.

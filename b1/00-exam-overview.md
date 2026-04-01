@@ -9,6 +9,14 @@
 | Schreiben (Writing) | 60 min | 100 points | 60% |
 | Sprechen (Speaking) | 15 min + 15 min prep | 100 points | 60% |
 
+**Important: Computer-Based Exam**
+At Goethe-Institut Berlin (Alexanderplatz) and many other centers, the B1 exam is taken on computer. This means:
+- Lesen & Hören: You click to select answers (richtig/falsch, multiple choice, matching)
+- Schreiben: You type your emails and texts using a keyboard (German keyboard layout — learn where ä, ö, ü, ß are!)
+- Sprechen: Still done face-to-face with a partner and examiners
+- You can navigate between questions and change answers before submitting
+- A timer is visible on screen
+
 ### Key Rules
 
 - **Written exam total:** 2 hours 45 minutes (Lesen + Horen + Schreiben back-to-back)
@@ -114,7 +122,7 @@ Audio is played through speakers for the entire group. You cannot pause or repla
 
 ## Module 3: Schreiben (Writing) -- 60 Minutes, 100 Points
 
-You write by hand on the official answer sheet. Manage your own time across all 3 tasks.
+You type your answers on a computer. Manage your own time across all 3 tasks.
 
 ### Aufgabe 1: Informal Email (~80 words, 40 points, ~20 min)
 
@@ -197,7 +205,7 @@ The speaking exam is done with a partner (another candidate). Two examiners are 
 **Lesen:**
 - Do NOT spend too long on Teil 3 (matching) -- it looks hard but gets easier with practice
 - If stuck on a question, mark your best guess and move on
-- Save 2-3 minutes at the end to transfer answers to the answer sheet
+- Double-check your selected answers on screen before time runs out
 
 **Horen:**
 - Use the pause before each Teil to read the questions carefully
