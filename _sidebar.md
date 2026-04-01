@@ -25,3 +25,18 @@
     - [Grammatik](1.1/reference/grammar.md)
     - [Wortschatz](1.1/reference/vocabulary.md)
     - [Nützliche Sätze](1.1/reference/useful-phrases.md)
+
+- **B1 Prüfungsvorbereitung**
+  - [Exam Overview & Strategy](b1/00-exam-overview.md)
+
+  - **Lesen (Reading)**
+    - [Lesen — Strategy Guide](b1/lesen/lesen-guide.md)
+
+  - **Hören (Listening)**
+    - [Hören — Strategy Guide](b1/hoeren/hoeren-guide.md)
+
+  - **Schreiben (Writing)**
+    - [Schreiben — Templates & Redemittel](b1/schreiben/schreiben-guide.md)
+
+  - **Sprechen (Speaking)**
+    - [Sprechen — Templates & Redemittel](b1/sprechen/sprechen-guide.md)
